@@ -1,1 +1,39 @@
+h1{ 
+    color:deeppink;
+    text-align: center;
+}
+
+
+body{
+    background-color:antiquewhite;
+    color: cadetblue;
+}
+
+p{
+    font-size: 30px; text-align: justify;
+}
+
+ul{
+    line-height: 2cm;
+}
+
+img{
+    border-radius: 20px; 
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px; color: black;
+    border-radius: 8px;
+    overflow: hidden;
+
+}
+
+a:hover{ 
+    color:gold ;
+    
+}
 
